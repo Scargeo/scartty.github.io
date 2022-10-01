@@ -1,6 +1,7 @@
-# scartty.github.io
-This program is designed purposely for 
-someone very closed to me
+# scartty's Birthday Site
+## Welcome to the Betty's birthday site
+###3rd October,2020
+This day marks the day an admirable one, Betty Osaa Opoku was born.
 ![IMG-20211010-WA0024](https://user-images.githubusercontent.com/64209782/193428720-fde56fb5-b704-403f-b949-aa46c52d4fcd.jpg)
 **Happy Birthday Day Dear!**
 
