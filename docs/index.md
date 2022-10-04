@@ -6,7 +6,7 @@ This day marks the day an admirable one, _**Betty Osaa Opoku**_ was born.
 ![birthdayp.jpg](/docs/birthdayp.jpg)
 **Happy Birthday Day Dear!**
 
-![IMG-20211010-WA0024.jpg]()
+![IMG-20211010-WA0024.jpg](https://github.com/Scargeo/scartty.github.io/blob/cc453012e0e9110ba3b4960c22ca02c71c571348/IMG-20211010-WA0024.jpg)
 
 _**Qute**_:  Always be yourself, express yourself, have faith in yourself and do not go out looking for personality and duplicate it.
 
