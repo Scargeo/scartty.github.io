@@ -1,4 +1,4 @@
-## Betty's Birthday Celebration Site !
+## HAPPY BIRTHDAY !
 
 ###  4th October,2020
 This day marks the day an admirable one, _**Betty Osaa Opoku**_ was born.
