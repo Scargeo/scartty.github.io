@@ -1,0 +1,117 @@
+body { 
+    background-image: url('/storage/emulated/0/Xender/folder/web-project/images/pngitem1.png');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    max-width: 100%;
+    height: auto;
+    background-size: 100% 100%;
+} 
+
+.title {
+    font-family: Serif;
+    font-variant: small-caps;
+    text-align: center;
+    padding: both;
+    color: purple;
+    font-size: 150%;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+#logo img {
+    border-radius: 40%;
+    max-width: 100%;
+    height: 5%;
+    margin-right: 16px;
+    clear: both;
+    background-size: contain;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: -1;
+}
+
+poem {
+    font-family: Courier New;
+    font-size: 100%;
+    padding-right: 10px;
+    color: white;
+    display: block;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px #000000;
+    text-align: center;
+}
+
+/*footer{
+    background-color: white;
+    background-size: contain;
+    color:black;
+    clear:both;
+    text-align:center;
+    padding: 10px;
+    margin-right: 16px;
+    font-family: Times New Roman;
+    font-weight: lighter;
+    position: fixed;
+    bottom: 0;
+    box-shadow: 5px 5px 5px;
+} */
+
+* {
+    box-sizing: border-box; 
+}
+
+.container {
+    float: left;
+    position: relative;
+    display: inline-block;
+    padding:10px;
+}
+
+.container-content {
+    float: left;
+    width: auto;
+    height: 70%;
+    padding: 5px;
+    position: absolute;
+    display: none;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: -1;
+    border-radius: 50%;
+}
+
+.container:hover .container-content {
+    display: block;
+}
+
+.container:hover .container-content1 {
+    display: block;
+}
+
+.container-content1 {
+    float: both;
+    width: 150px;
+    border-radius: 50%;
+    padding: 5px;
+    display: none;
+    position:absolute;
+    min-width: 100px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: -1;
+}
+
+.container::after {
+    content: "";
+    clear:"both";
+    display: table;
+}
+
+.title {
+   color: aliceblue;
+   text-align: center;
+   font-size: auto;
+}
+
+b{
+    text-align: center;
+}
