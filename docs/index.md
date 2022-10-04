@@ -2,7 +2,7 @@
 
 ###  4th October,2020
 This day marks the day an admirable one, _**Betty Osaa Opoku**_ was born.
-![Betty Image](https://github.com/Scargeo/scartty.github.io/blob/d82178c8f76007c11db2a2e0f34f107dd0b684aa/docs/birthdayp.jpg)
+![Betty Image](/docs/birthdayp.jpg)
 **Happy Birthday Day Dear!**
 
 
